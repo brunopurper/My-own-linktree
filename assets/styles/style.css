@@ -120,7 +120,7 @@ body {
 @media (max-width: 500px) {
     .links {
         border: 1px solid black;
-        width: 390px;
+        width: 490px;
         height: 60px;
         background-color: white;
         display: flex;
@@ -135,7 +135,7 @@ body {
 @media (max-width: 515px) {
     .links {
         border: 1px solid black;
-        width: 290px;
+        width: 450px;
         height: 60px;
         background-color: white;
         display: flex;
