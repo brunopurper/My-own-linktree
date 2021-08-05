@@ -76,6 +76,10 @@ body {
     color: black;
 }
 
+a:hover {
+    color: white;
+}
+
 
 .links:hover {
     background-color: #242424;
